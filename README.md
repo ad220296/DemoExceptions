@@ -2,7 +2,7 @@ Bilderbeschreibung:
 
 ## Call Stack
 
-Aufruf des Programmes/Methoden ist unten rechts sichtbar, die letzte aufgerufene Methode ist die oberste im "Stack"
+Aufruf des Programmes/Methoden ist unten rechts sichtbar, dass die letzte aufgerufene Methode ist die oberste im "Stack"
 
 ## Stack Trace
 
